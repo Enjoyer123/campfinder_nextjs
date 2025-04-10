@@ -6,7 +6,7 @@ import DropdownListmenu from "./DropdownListmenu"
 const Navbar = () => {
     return (
         <nav className="bg-green-800">
-            <div className="container flex items-center justify-between flex-col bg-green-300 md:flex-row p-4 mx-auto
+            <div className="container flex items-center justify-between bg-green-300
             ">
 
                 <Logo />

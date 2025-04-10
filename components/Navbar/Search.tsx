@@ -8,7 +8,7 @@ const Search = () => {
     
     type="text"
     placeholder="Search camping..."
-    className="max-w-xs"
+    className="max-w-xs sm: hidden"
     />
   )
 }
